@@ -1,5 +1,7 @@
 ## Hi there, my name is Lukas :wave:
 
+![](https://avatars.githubusercontent.com/u/3764664)
+
 - :microscope: I'm a M.Sc. in Computer Science.
 - 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
 - 🌱 I’m working towards obtaining the CKA certification. 
