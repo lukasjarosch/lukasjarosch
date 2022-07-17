@@ -3,7 +3,9 @@
 - 🔭 I’m currently working as *Cloud Platform Engineer*. 
 - 🌱 I’m working towards obtaining the CKA certification. 
 - 👯 I love to develop software in my spare time, preferably open source. 
-- 😄 I do have two cats. They are really bad at pair programming tho. 
+- :computer: Long time Linux fanboy
+- :hammer_and_pick: I love to craft code in Golang
+- :cat: I do have two cats. They are really bad at pair programming tho. 
 
 <!--
 **lukasjarosch/lukasjarosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
