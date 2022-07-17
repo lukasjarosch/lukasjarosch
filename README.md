@@ -1,6 +1,10 @@
-## Hi there, my name is Lukas :wave:
+<div align="center">
+<img width="100%"  src="https://cloud.derwaldemar.com/apps/files_sharing/publicpreview/JzwGQ4CqmGsjycr?x=3440&y=985&a=true&file=Lumii_20220717_145827363.jpg&scalingup=0" alt="cover" />
+</div>
 
-![](https://avatars.githubusercontent.com/u/3764664)
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Lukas</h1>
+<h3 align="center">I want to change the world, give me the source code.</h3>
+
 
 - :microscope: I'm a M.Sc. in Computer Science.
 - 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
