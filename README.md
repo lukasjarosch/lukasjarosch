@@ -1,11 +1,11 @@
 ## Hi there, my name is Lukas :wave:
 
-- :microscope: I have a M.Sc. in Computer Science
-- 🔭 I’m currently working as *Cloud Platform Engineer*. 
+- :microscope: I have a M.Sc. in Computer Science.
+- 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
 - 🌱 I’m working towards obtaining the CKA certification. 
 - 👯 I love to develop software in my spare time, preferably open source. 
-- :computer: Long time Linux fanboy
-- :hammer_and_pick: I love to craft code in Golang
+- :computer: Long time Linux fanboy.
+- :hammer_and_pick: I love to craft code in Golang.
 - :cat: I do have two cats. They are really bad at pair programming tho. 
 
 <!--
