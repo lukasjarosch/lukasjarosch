@@ -1,5 +1,6 @@
 ## Hi there, my name is Lukas :wave:
 
+- :microscope: I have a M.Sc. in Computer Science
 - 🔭 I’m currently working as *Cloud Platform Engineer*. 
 - 🌱 I’m working towards obtaining the CKA certification. 
 - 👯 I love to develop software in my spare time, preferably open source. 
