@@ -8,7 +8,6 @@
 
 - :microscope: I'm a M.Sc. in Computer Science.
 - 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
-- 🌱 I’m working towards obtaining the CKA certification. 
 - 👯 I love to develop software in my spare time, preferably open source. 
 - :computer: Long time Linux fanboy.
 - :hammer_and_pick: I love to craft code in Golang.
