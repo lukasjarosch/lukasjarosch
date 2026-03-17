@@ -9,8 +9,9 @@
 - 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
 - 👯 I love to develop software in my spare time, preferably open source. 
 - :computer: Long time Linux fanboy.
-- ❄️: Turned Nix and NixOS fanboy in 2025
+- ❄️: Fell down the Nix rabbithole in 2025
 - :hammer_and_pick: I love to craft code in Golang.
+- 💻: Bash scripting ❤️
 - :cat: I do have two cats. They are really bad at pair programming tho (just look at the picture above to see the enthusiasm :laughing:).
 - - :microscope: I've got a M.Sc. in Computer Science.
 
