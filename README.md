@@ -13,8 +13,6 @@
 - :hammer_and_pick: I love to craft code in Golang.
 - 💻: Bash scripting ❤️
 - :cat: I do have two cats. They are really bad at pair programming tho (just look at the picture above to see the enthusiasm :laughing:).
-- - :microscope: I've got a M.Sc. in Computer Science.
-
 
 <!--
 **lukasjarosch/lukasjarosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
