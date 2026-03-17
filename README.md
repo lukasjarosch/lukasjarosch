@@ -6,12 +6,14 @@
 <h3 align="center">I want to change the world, give me the source code.</h3>
 
 
-- :microscope: I'm a M.Sc. in Computer Science.
 - 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
 - 👯 I love to develop software in my spare time, preferably open source. 
 - :computer: Long time Linux fanboy.
+- ❄️: Turned Nix and NixOS fanboy in 2025
 - :hammer_and_pick: I love to craft code in Golang.
-- :cat: I do have two cats. They are really bad at pair programming tho (just look at the picture above to see the enthusiasm :laughing:). 
+- :cat: I do have two cats. They are really bad at pair programming tho (just look at the picture above to see the enthusiasm :laughing:).
+- - :microscope: I've got a M.Sc. in Computer Science.
+
 
 <!--
 **lukasjarosch/lukasjarosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
