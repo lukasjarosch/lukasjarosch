@@ -11,8 +11,7 @@
 - :computer: Long time Linux fanboy.
 - ❄️: Fell down the Nix rabbithole in 2025
 - :hammer_and_pick: I love to craft code in Golang.
-- 💻: Bash scripting ❤️
-- :cat: I do have two cats. They are really bad at pair programming tho (just look at the picture above to see the enthusiasm :laughing:).
+- 💻: Bash goes brr... 🚀
 
 <!--
 **lukasjarosch/lukasjarosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
