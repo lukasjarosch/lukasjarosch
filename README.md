@@ -6,7 +6,7 @@
 <h3 align="center">I want to change the world, give me the source code.</h3>
 
 
-- 🔭 I’m currently working as *Cloud Platform Engineer* [@inovex](https://github.com/inovex). 
+- 🔭 I’m currently working as *Cloud Engineer* [@inovex](https://github.com/inovex). 
 - 👯 I love to develop software in my spare time, preferably open source. 
 - :computer: Long time Linux fanboy.
 - ❄️: Fell down the Nix rabbithole in 2025
